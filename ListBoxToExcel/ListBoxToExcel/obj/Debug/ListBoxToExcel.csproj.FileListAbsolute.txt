@@ -1,0 +1,10 @@
+C:\Users\Casper\source\repos\ListBoxToExcel\ListBoxToExcel\bin\Debug\ListBoxToExcel.exe.config
+C:\Users\Casper\source\repos\ListBoxToExcel\ListBoxToExcel\bin\Debug\ListBoxToExcel.exe
+C:\Users\Casper\source\repos\ListBoxToExcel\ListBoxToExcel\bin\Debug\ListBoxToExcel.pdb
+C:\Users\Casper\source\repos\ListBoxToExcel\ListBoxToExcel\obj\Debug\ListBoxToExcel.csprojAssemblyReference.cache
+C:\Users\Casper\source\repos\ListBoxToExcel\ListBoxToExcel\obj\Debug\ListBoxToExcel.Form1.resources
+C:\Users\Casper\source\repos\ListBoxToExcel\ListBoxToExcel\obj\Debug\ListBoxToExcel.Properties.Resources.resources
+C:\Users\Casper\source\repos\ListBoxToExcel\ListBoxToExcel\obj\Debug\ListBoxToExcel.csproj.GenerateResource.cache
+C:\Users\Casper\source\repos\ListBoxToExcel\ListBoxToExcel\obj\Debug\ListBoxToExcel.csproj.CoreCompileInputs.cache
+C:\Users\Casper\source\repos\ListBoxToExcel\ListBoxToExcel\obj\Debug\ListBoxToExcel.exe
+C:\Users\Casper\source\repos\ListBoxToExcel\ListBoxToExcel\obj\Debug\ListBoxToExcel.pdb
